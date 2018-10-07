@@ -1,6 +1,6 @@
 
 def get_coordinates(val):
-	""" This function simply returns the coordinates of a certain value
+	""" This function simply returns a tuple containing the coordinates of a certain value
 	
 	Args:
 	val: a number ranging from 0 to 15
