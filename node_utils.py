@@ -15,6 +15,7 @@ def copy_board(source_list, target_list):
 		""" Copies a list into another list
 
 		Args:
+		source_list: Our source list
 		target_list: The list we want to insert data into 
 		"""
 
