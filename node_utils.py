@@ -55,6 +55,7 @@ def get_parent_node(node, closed_list):
 	Args:
 
 	node: Node object whose parent we are trying to find
+	closed_list: The closed_list
 	"""
 	parent_candidate = None
 	for candidate_node in closed_list:
